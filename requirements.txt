@@ -146,7 +146,6 @@ python-dotenv==1.1.1
 python-json-logger==3.2.0
 python-jwt==4.1.0
 pytz==2024.2
-pywin32==308
 pywinpty==2.0.14
 PyYAML==6.0.2
 pyzmq==26.2.0
@@ -175,7 +174,7 @@ supabase_functions==0.10.1
 sympy==1.13.1
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
-tensorflow==2.18.0
+tensorflow==2.20.0
 tensorflow-io-gcs-filesystem==0.31.0
 tensorflow_intel==2.18.0
 termcolor==2.5.0

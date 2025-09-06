@@ -1,0 +1,9 @@
+.env
+
+*.json
+project-maiscan-firebase-adminsdk-fbsvc-8491da1d45.json
+servicekeyjson/
+
+
+.vscode/
+.ipynb_checkpoints/
